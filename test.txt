@@ -4,4 +4,4 @@ column_1   column_2
    row 3.1       row 2.3
    row 4.1       row 2.4
    row 5.1       row 2.5
-   row 6.1       row 2.6
+   row 6.1       row 2.
