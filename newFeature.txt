@@ -1,2 +1,2 @@
- a new feature
+ a new feature from user 2
  new update 1
