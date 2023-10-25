@@ -1,2 +1,6 @@
+
  a new feature from user1
+
+ a new feature from user 2
+
  new update 1
