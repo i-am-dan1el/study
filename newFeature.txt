@@ -4,3 +4,5 @@
  a new feature from user 2
 
  new update 1
+
+new line from user 1
